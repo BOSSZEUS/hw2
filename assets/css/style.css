@@ -40,4 +40,14 @@
 #portfolio{
   padding-left: 20px;
   text-align: center;
+  
+
+ body {
+   background-color: aqua;
+ }
+.col-md-4{
+  flex-flow: wrap;
+}
+#links{
+  align-items: center;
 }
